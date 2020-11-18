@@ -1,9 +1,43 @@
 [
 
-{ "short_name": "React App", "icons": [ { "src": "favicon.ico", "sizes": "64x64 32x32 24x24 16x16", "type": "image/x-icon" }, { "src": "logo192.png", "type": "image/png", "sizes": "192x192" }, { "src": "logo512.png", "type": "image/png", "sizes": "512x512" } ], "start_url": "wwwfb.com"},
+{
 
-[
+"posts": [
 
-{ "short_name": "React App", "icons": [ { "src": "favicon.ico", "sizes": "64x64 32x32 24x24 16x16", "type": "image/x-icon" }, { "src": "logo192.png", "type": "image/png", "sizes": "192x192" }, { "src": "logo512.png", "type": "image/png", "sizes": "512x512" } ], "start_url": "wwwfb.com"}
+{"id": 1, "title": "Post 1", "description":"www.google.com" },
+
+{"id": 2, "title": "Post 2", "description":"www.fb.com" },
+
+{ "id": 3, "title": "Post 3", "description": "www.vns.com" } 
+
+],
+
+"profile":{
+
+"name": "Profile 1"
+
+}
+
+},
+
+{
+
+"posts": [
+
+{"id": 1, "title": "Post 1", "description":"www.google.com" },
+
+{"id": 2, "title": "Post 2", "description":"www.fb.com" },
+
+{ "id": 3, "title": "Post 3", "description": "www.vns.com" } 
+
+],
+
+"profile":{
+
+"name": "Profile 1"
+
+}
+
+}
 
 ]
